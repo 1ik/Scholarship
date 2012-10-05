@@ -1,0 +1,149 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+#header_one{
+	margin:0px;
+	padding:0px;
+	z-index:5;
+}
+
+#wrapper_one{
+	width:900px;
+	background-color:#FFF;
+	margin: 0 auto;
+	padding:10px;
+	padding-top:35px;
+	padding-bottom:35px;
+	margin-top:-25px;
+	margin-bottom:-25px;
+	-webkit-box-shadow: 4px 2px  #888888,  -4px 0 2px #888888;   
+-moz-box-shadow: 4px 0 2px #888888,  -4px 0 2px #888888;   
+box-shadow: 4px 0 15px #888888,  -4px 0 15px #888888;
+}
+
+#panel{
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5px;
+	border:thick;
+}
+
+#form_one{
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	padding-left:200px;
+	
+}
+
+#category{
+	width:360px;
+	
+}
+
+#footer{
+	height:35px;
+}
+
+#footer p{
+	text-align:center;
+}
+
+
+
+#header_two{
+	margin:0px;
+	padding:0px;
+	z-index:5;
+}
+
+#wrapper_two{
+	width:500px;
+	background-color:#FFF;
+	margin: 0 auto;
+	padding:10px;
+	padding-top:35px;
+	padding-bottom:35px;
+	margin-top:-25px;
+	margin-bottom:-25px;
+	-webkit-box-shadow: 4px 2px  #888888,  -4px 0 2px #888888;   
+-moz-box-shadow: 4px 0 2px #888888,  -4px 0 2px #888888;   
+box-shadow: 4px 0 15px #888888,  -4px 0 15px #888888;
+	
+}
+
+#form_two{
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	padding-left:200px;	
+	padding-top:10px;
+	margin-top:10px;
+}
+
+#header_three{
+	margin:0px;
+	padding:0px;
+	z-index:5;
+}
+
+#wrapper_three{
+	width:900px;
+	background-color:#FFF;
+	margin: 0 auto;
+	padding:10px;;
+	padding-top:35px;
+	padding-bottom:35px;
+	margin-top:-25px;
+	margin-bottom:-25px;
+	-webkit-box-shadow: 4px 2px  #888888,  -4px 0 2px #888888;   
+-moz-box-shadow: 4px 0 2px #888888,  -4px 0 2px #888888;   
+box-shadow: 4px 0 15px #888888,  -4px 0 15px #888888;
+}
+
+#form_three{
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	padding-left:200px;	
+	margin-top:0px;
+	padding-top:0px;
+}
+
+#header_four{
+	margin:0px;
+	padding:0px;
+	z-index:5;
+}
+
+#wrapper_four{
+	width:900px;
+	background-color:#FFF;
+	margin: 0 auto;
+	padding:10px;;
+	padding-top:35px;
+	padding-bottom:35px;
+	margin-top:-25px;
+	margin-bottom:-25px;
+	-webkit-box-shadow: 4px 2px  #888888,  -4px 0 2px #888888;   
+-moz-box-shadow: 4px 0 2px #888888,  -4px 0 2px #888888;   
+box-shadow: 4px 0 15px #888888,  -4px 0 15px #888888;
+}
+
+#form_four{
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	padding-left:200px;	
+	margin-top:0px;
+	padding-top:0px;
+}
+
+#logo{
+	position:absolute;
+	top:0px;
+	margin-left:300px;
+}
+

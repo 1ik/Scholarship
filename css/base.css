@@ -1,0 +1,557 @@
+#dummyHeader
+{
+    position: absolute;
+    left: 0px; 
+    top: 0px; 
+    font-family: sans-serif;
+    font-size: xx-large;
+    color: white;
+    height: 100px;
+    width: 100%;
+    background-image: url('Header.png');
+    
+}
+
+#header_one{
+	margin:0px;
+	padding:0px;
+	z-index:5;
+}
+
+#wrapper_one{
+        position: relative;
+        top: 0px;
+        bottom: 0px;
+	width:900px;
+	background-color:#FFF;
+	margin: 0 auto;
+        padding:10px;
+	padding-top:35px;
+	padding-bottom:35px;
+	margin-top:-25px;
+	margin-bottom:-25px;
+	-webkit-box-shadow: 4px 2px  #888888,  -4px 0 2px #888888;   
+        -moz-box-shadow: 4px 0 2px #888888,  -4px 0 2px #888888;   
+        box-shadow: 4px 0 15px #888888,  -4px 0 15px #888888;
+}
+#wrapper_login{
+        position: relative;
+        top: 117px;
+	width:900px;
+        height: 450px;
+	background-color:#FFF;
+	margin: 0 auto;
+        padding:10px;
+	padding-top:35px;
+	padding-bottom:35px;
+	margin-top:-25px;
+	margin-bottom:-25px;
+	-webkit-box-shadow: 4px 2px  #888888,  -4px 0 2px #888888;   
+        -moz-box-shadow: 4px 0 2px #888888,  -4px 0 2px #888888;   
+        box-shadow: 4px 0 15px #888888,  -4px 0 15px #888888;
+}
+#login_form_area
+{
+    position: relative;
+    left: 1px;
+    font-family: helvetica;
+    color: #333333;
+    font-size: larger;
+    z-index: 5;
+   /* width: 600px; */
+    
+}
+
+#login_form_area_center
+{
+    position: relative;
+    font-family: helvetica;
+    color: #333333;
+    font-size: larger;
+   
+    
+}
+.userid 
+{
+	background: url(styleImage/textBg.png);
+        background-repeat: no-repeat;
+	height: 33px;
+	border: 0;
+	width:192px;
+        padding-left: 20px;
+}
+.userid:focus
+{
+       background: url(styleImage/textBgHov.png);
+       background-repeat:  no-repeat;
+       border: none;
+       outline: white;
+       
+}
+#subId
+{
+    background: url(styleImage/loginButton.png);
+    background-repeat: no-repeat;
+    width: 192px;
+    height:50px;
+    border: 0;
+    font-family: helvetica;
+    font-size: small;
+    position: relative;
+    left: 0px;
+}
+#subId:hover
+{
+    background: url(styleImage/loginButtonHov.png);
+    font-weight: bold;
+}
+#panel{
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5px;
+	border:thick;
+}
+
+#form_one{
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	padding-left:200px;
+        z-index: 5;
+	
+}
+
+#category{
+	width:360px;
+	
+}
+
+#footer{
+    position: relative;
+	height:45px;
+        width: 100%;
+        bottom:0%;
+}
+
+#footerLogin{
+    position: relative;
+        left: 65px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 350px;
+        top: 100px;
+        
+}
+
+#footerSignup{
+    position: relative;
+       text-align: center;
+        padding-left: 55px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 450px;
+        bottom: -110;
+}
+
+#leftFooter{
+    position: relative;
+        width: 300px;
+        float: left;
+	text-align:left;
+}
+
+#footerWrapper{
+    position: relative;
+    width: 900px;
+    bottom:0%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#rightFooter{
+    position: relative;
+        
+	text-align:right;
+        float: right;
+       
+}
+
+
+
+#header_two{
+	margin:0px;
+	padding:0px;
+	z-index:5;
+}
+
+#wrapper_two{
+	width:500px;
+	background-color:#FFF;
+	margin: 0 auto;
+	padding:10px;
+	padding-top:35px;
+	padding-bottom:35px;
+	margin-top:-25px;
+	margin-bottom:-25px;
+	-webkit-box-shadow: 4px 2px  #888888,  -4px 0 2px #888888;   
+-moz-box-shadow: 4px 0 2px #888888,  -4px 0 2px #888888;   
+box-shadow: 4px 0 15px #888888,  -4px 0 15px #888888;
+	
+}
+
+#form_two{
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	padding-left:200px;	
+	padding-top:10px;
+	margin-top:10px;
+        z-index: 5;
+}
+
+#header_three{
+	margin:0px;
+	padding:0px;
+	z-index:5;
+}
+
+#wrapper_three{
+	width:900px;
+	background-color:#FFF;
+	margin: 0 auto;
+	padding:10px;;
+	padding-top:35px;
+	padding-bottom:35px;
+	margin-top:-25px;
+	margin-bottom:-25px;
+	-webkit-box-shadow: 4px 2px  #888888,  -4px 0 2px #888888;   
+-moz-box-shadow: 4px 0 2px #888888,  -4px 0 2px #888888;   
+box-shadow: 4px 0 15px #888888,  -4px 0 15px #888888;
+}
+
+#form_three{
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	padding-left:200px;	
+	margin-top:0px;
+	padding-top:0px;
+}
+
+#header_four{
+	margin:0px;
+	padding:0px;
+	z-index:5;
+}
+
+#wrapper_four{
+	width:900px;
+	background-color:#FFF;
+	margin: 0 auto;
+	padding:10px;;
+	padding-top:35px;
+	padding-bottom:35px;
+	margin-top:-25px;
+	margin-bottom:-25px;
+	-webkit-box-shadow: 4px 2px  #888888,  -4px 0 2px #888888;   
+-moz-box-shadow: 4px 0 2px #888888,  -4px 0 2px #888888;   
+box-shadow: 4px 0 15px #888888,  -4px 0 15px #888888;
+}
+
+#form_four{
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	padding-left:200px;	
+	margin-top:0px;
+	padding-top:0px;
+        z-index: 5;
+}
+
+#logo{
+	position:absolute;
+	top:0px;
+	margin-left:300px;
+}
+
+/** home contents goes here */
+
+#titleBanner
+{
+        position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5px;
+	border:thick;
+        height: 300px;
+        width: 890px;
+        overflow: hidden;  
+}
+
+#nextButton
+{
+    position: absolute;
+    left: 800px;
+    right: 100px;
+    top: 100px;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}
+#prevButton
+{
+    position: absolute;
+    left: 220px;
+    top: 300px;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}
+
+
+#informationBox
+{
+        position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:thick;
+        height: 300px;
+        top: 10px;
+}
+#eligBox
+{
+    position: absolute;
+    width: 59%;
+    left: 2%;
+    /*background-color: #888888;*/
+}
+
+#newsBox
+{
+    position: absolute;
+    width: 35%;
+    left: 63%;
+    text-align: left;
+    
+}
+
+
+#slider1 {
+	position: absolute; /* important */
+    width: 700px; /* important to be same as image width */
+    height: 300px; /* important to be same as image height */
+    overflow: hidden; /* important */
+	top:110px;
+	left:240px;
+}
+#slider1Content {
+     /* important to be same as image width or wider */
+    position: absolute;
+	top: 0;
+	margin-left: 0;
+	height:300px;
+	width: 720px;
+	overflow:hidden;
+}
+.slider1Image {
+    float: left;
+    position: absolute;
+	display: none;
+}
+.clear {
+	clear: both;
+}
+
+/** cybo */
+
+#sitelogo{
+    position: relative;
+    right: 20%;    
+}
+
+#noticeTitle{
+    text-align: left;
+}
+
+#noticeTitle h1{
+    text-align: center;
+}
+
+#noticeTitle h4{
+    text-align: center;
+}
+
+#leftColumn{
+    top:136px;
+    float: left;
+    text-align: left;
+    width: 200px;
+    padding-left: 170px;
+    z-index: 5;
+    
+}
+
+#leftColumn2{
+    top:136px;
+    float: left;
+    text-align: left;
+    width: 120px;
+    padding-left: 250px;
+    z-index: 5;
+
+}
+
+#rightColumn{
+    top:136px;
+    float: left;
+    text-align: left;
+    width: 230px;
+    padding-left: 10px;
+    z-index: 10;
+
+}
+
+#errorColumn{
+    top:136px;
+    float: left;
+    text-align: left;
+    width: 250px;
+    padding-left: 10px;
+    font-size: x-small;
+    color: red;
+    z-index: 10;
+}
+
+#errorLogin{
+    position: relative;
+    top: 10px;
+    
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-left: 50px;
+    font-size: x-small;
+    font-weight: bold;
+    z-index: -1;
+    /*margin-top: 5px;
+    height: 20px;*/
+    
+
+}
+
+/*#submitArea{
+    position: relative;
+    width: 300px;
+    height: 30px;
+    margin-top: 25px;
+    bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    z-index: 0;
+}*/
+
+#submitArea{
+    position: relative;
+    width: 450px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-left: 50px;
+    top: 10px;
+    z-index: 2;
+    
+}
+
+#submitAreaLogin{
+    
+    position: relative;
+   width: 450px;
+   /*
+   top:90px;
+   height: 60px;*/
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-left: 50px;
+    z-index: -1;
+    /*padding-top: 85px;*/
+
+}
+
+#formAppID{
+    padding-top: 12px;
+}
+
+#formPass{
+    padding-top: 12px;
+}
+
+#formRPass{
+    padding-top: 12px;
+}
+
+#formEmail{
+    padding-top: 10px;
+}
+
+#formToken{
+    padding-top: 10px;
+}
+
+/* signup form errorColumn */
+#errorAppID{
+    position: relative;
+    top: 30px;
+}
+
+#errorPassword{
+    position: relative;
+    top: 65px;
+}
+
+#errorPassword2{
+    position: relative;
+    top: 95px;
+}
+
+#errorEmail{
+    position: relative;
+    top: 130px;
+}
+
+#errorToken{
+    position: relative;
+    top: 165px;
+}
+
+#contactInfo{
+    position: relative;
+    left: 50px;
+    right: 200px;
+    width: 500px;
+
+}
+
+#map{
+    position: relative;
+    float: right;
+    width: 300px;
+    height: 400px;
+    right: 60px;
+    top: -405px;
+    border: #000;
+    border-width: thin;
+    border-style: dashed;
+}
+/** end of home contents goes here */
