@@ -217,18 +217,7 @@
 
             </div> <!-- end of errorColumn -->
   
-            
-            <?php echo $cap_img ?>
-  <input type="text" id="captcha" name="captcha" value="" />
-  <?php echo form_error('captcha'); ?>
-  
-  
-  
-  
-  
-  
-            
-            
+ 
             <div id="submitArea">
             <?php
             

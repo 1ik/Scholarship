@@ -708,7 +708,7 @@ class Main extends CI_Controller {
                 array('field' => 'email', 'label' => 'e-mail', 'rules' => 'required|valid_email'),
                 array('field' => 'token', 'label' => 'token', 'rules' => 'required|callback_checkToken'),
                 //captcha validation...
-                array('field' => 'captcha', 'label' => 'Captcha', 'rules' => 'trim|required|callback_check_captcha'),
+                // array('field' => 'captcha', 'label' => 'Captcha', 'rules' => 'trim|required|callback_check_captcha'),
             );
             
             $this->form_validation->set_rules($rules);
